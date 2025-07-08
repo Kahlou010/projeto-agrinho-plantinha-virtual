@@ -1,18 +1,32 @@
-Projeto Agrinho - Plantinha Virtual
+# 🌱 Projeto Agrinho - Plantinha Virtual
 
-Descrição:
-Jogo interativo criado para o projeto Agrinho. O objetivo é cuidar de uma plantinha e ajudá-la a crescer.
+🎮 **Descrição:**  
+Jogo interativo criado para o Projeto Agrinho. O objetivo é **cuidar de uma plantinha** e ajudá-la a crescer de forma saudável!
 
-Recursos usados:
-- Biblioteca p5.js para criar o jogo e os gráficos.
-- Ícones e desenhos feitos diretamente no código.
-- Sons não foram usados neste projeto.
+---
 
-Uso de inteligência artificial:
-Durante o desenvolvimento, utilizei ajuda de uma inteligência artificial para esclarecer dúvidas e melhorar o código, mas todo o projeto foi criado, pensado e executado por mim.
+## 🧰 Recursos Usados:
 
-Como jogar:
-Arraste os itens na ordem certa até a planta para ela crescer e florescer.
+- 📦 **Biblioteca [p5.js](https://p5js.org/)** para criar o jogo e os gráficos.
+- 🎨 Ícones e desenhos feitos diretamente no código.
+- 🔇 Este projeto **não utiliza sons**.
 
-Créditos:
-Projeto feito por Kauã Lourenço Botelho Soares.
+---
+
+## 🤖 Uso de Inteligência Artificial:
+
+Durante o desenvolvimento, utilizei a ajuda de uma inteligência artificial apenas para esclarecer dúvidas e melhorar o código. **Todo o projeto foi pensado, desenhado e executado por mim.**
+
+---
+
+## 🕹️ Como Jogar:
+
+➡️ **Arraste os itens** na ordem certa até a plantinha para ela crescer e florescer! 🌼
+
+---
+
+## 👤 Créditos:
+
+Feito com dedicação por **Kauã Lourenço Botelho Soares** 🧑‍💻
+
+---
